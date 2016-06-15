@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Hi firts text
+=======
+abcdkewk
+>>>>>>> b8ea8377132a5dbe3b365dc5d73048b61794c738
