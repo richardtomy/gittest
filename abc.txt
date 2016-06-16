@@ -3,4 +3,8 @@ Hi firts text
 
 abcdkewk
 Hi firts text richy
+<<<<<<< HEAD
 
+=======
+baloon
+>>>>>>> 941c6c7443a9e13bd92fa5b43aeb6fffa6e2c9e7
